@@ -42,10 +42,6 @@ Feel free to modify the game to suit your needs. Some ideas:
 - Add power-ups
 - Implement multiplayer functionality
 
-## 💼 Need a Custom Web Solution?
-
-Love this game? Imagine what we could create for your business! Visit [AI Web Architects](https://aiwebarchitects.com) for more amazing website and app designs.
-
 ## 🌟 Leave a Star!
 
 If you enjoyed this project, please leave a star on GitHub. It helps us create more awesome open-source projects!
